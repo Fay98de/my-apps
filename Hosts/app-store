@@ -1,3 +1,6 @@
+# IP获得方式：
+# 通过批量ping域名，之后取ping值最小的作为首选
+# 
 # iPhone
 # 如果替换之后App Store未生效或者无法连接，可以打开浏览器访问 http://ca.apple.com/link.pem 来解决。
 
