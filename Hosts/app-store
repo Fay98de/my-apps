@@ -1,3 +1,6 @@
+# iPhone
+# 如果替换之后App Store未生效或者无法连接，可以打开浏览器访问 http://ca.apple.com/link.pem 来解决。
+
 127.0.0.1		localhost
 255.255.255.255	broadcasthost
 ::1				localhost
