@@ -1,0 +1,22 @@
+; Summary: Proxy Switchy! Exported Rule List
+; Date: 2013年9月24日
+; Website: http://bit.ly/proxyswitchy
+
+#BEGIN
+
+[wildcard]
+*.appspot.*
+*.feedly.*
+*.google.*
+*.googleapi.*
+*.googleusercontent.*
+*.gstatic.*
+*.sourceforge.*
+*chrome.blogspot.com*
+*spinejs.com*
+*.vimeo.*
+
+[regexp]
+
+
+#END
