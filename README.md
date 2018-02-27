@@ -1,7 +1,5 @@
 # My Apps
 
----
-
 Some Apps I'd like to use. including:
 
 * App names.
