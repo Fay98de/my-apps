@@ -1,4 +1,10 @@
-mySoftware
-==========
+# My Apps
 
-Only some something of the software I use, like config, themes and etc.
+---
+
+Some Apps I'd like to use. including:
+
+* App names.
+* App configs.
+* App themes.
+* etc
